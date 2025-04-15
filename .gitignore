@@ -1,0 +1,19 @@
+# Arquivos do R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Outros que você não quer versionar
+*.csv~
+*.bak
+*.swp
